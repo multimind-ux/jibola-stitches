@@ -1,0 +1,915 @@
+{
+  "store": "Jibola Stitches",
+  "currency": "NGN",
+  "products": [
+    {
+      "id": 1,
+      "name": "Black Studded Twist Slippers",
+      "slug": "black-studded-twist-slippers",
+      "category": "footwear",
+      "price": 8000,
+      "description": "Black flat slide with a twisted, stone-studded strap and a glossy sole.",
+      "images": [
+        "/images/footwear/black-studded-twist-slippers.jpg"
+      ],
+      "colours": [
+        "Black"
+      ],
+      "variants": [
+        {
+          "colour": "Black",
+          "sizes": [
+            {
+              "size": "37",
+              "stock": 2
+            },
+            {
+              "size": "38",
+              "stock": 3
+            },
+            {
+              "size": "39",
+              "stock": 3
+            },
+            {
+              "size": "40",
+              "stock": 4
+            },
+            {
+              "size": "41",
+              "stock": 3
+            },
+            {
+              "size": "42",
+              "stock": 2
+            }
+          ]
+        }
+      ],
+      "tag": "New Arrival",
+      "in_stock": true,
+      "total_stock": 17
+    },
+    {
+      "id": 2,
+      "name": "Buckle Slippers",
+      "slug": "buckle-slippers",
+      "category": "footwear",
+      "price": 10500,
+      "description": "Criss-cross strap slide with a gold-tone buckle, in glossy black and brown.",
+      "images": [
+        "/images/footwear/buckle-slippers.jpg"
+      ],
+      "colours": [
+        "Black",
+        "Brown"
+      ],
+      "variants": [
+        {
+          "colour": "Black",
+          "sizes": [
+            {
+              "size": "37",
+              "stock": 2
+            },
+            {
+              "size": "38",
+              "stock": 1
+            },
+            {
+              "size": "39",
+              "stock": 1
+            },
+            {
+              "size": "40",
+              "stock": 1
+            },
+            {
+              "size": "41",
+              "stock": 1
+            }
+          ]
+        },
+        {
+          "colour": "Brown",
+          "sizes": [
+            {
+              "size": "37",
+              "stock": 1
+            },
+            {
+              "size": "39",
+              "stock": 1
+            },
+            {
+              "size": "40",
+              "stock": 1
+            },
+            {
+              "size": "41",
+              "stock": 1
+            }
+          ]
+        }
+      ],
+      "tag": "New Arrival",
+      "in_stock": true,
+      "total_stock": 10
+    },
+    {
+      "id": 3,
+      "name": "Classic Cut-Out Flat Slippers",
+      "slug": "classic-cut-out-flat-slippers",
+      "category": "footwear",
+      "price": 6500,
+      "description": "Glossy flat slides with a cut-out strap. Easy to wear with anything.",
+      "images": [
+        "/images/footwear/classic-cut-out-flat-slippers.jpg"
+      ],
+      "colours": [
+        "Black",
+        "Chocolate",
+        "Wine",
+        "White"
+      ],
+      "variants": [
+        {
+          "colour": "Black",
+          "sizes": [
+            {
+              "size": "38",
+              "stock": 1
+            },
+            {
+              "size": "39",
+              "stock": 1
+            },
+            {
+              "size": "40",
+              "stock": 2
+            }
+          ]
+        },
+        {
+          "colour": "Chocolate",
+          "sizes": [
+            {
+              "size": "37",
+              "stock": 1
+            },
+            {
+              "size": "39",
+              "stock": 1
+            },
+            {
+              "size": "40",
+              "stock": 1
+            }
+          ]
+        },
+        {
+          "colour": "Wine",
+          "sizes": [
+            {
+              "size": "37",
+              "stock": 1
+            },
+            {
+              "size": "39",
+              "stock": 1
+            }
+          ]
+        },
+        {
+          "colour": "White",
+          "sizes": [
+            {
+              "size": "37",
+              "stock": 1
+            },
+            {
+              "size": "38",
+              "stock": 1
+            },
+            {
+              "size": "41",
+              "stock": 1
+            }
+          ]
+        }
+      ],
+      "tag": "New Arrival",
+      "in_stock": true,
+      "total_stock": 12
+    },
+    {
+      "id": 4,
+      "name": "Pointed Sling Heels with Stone Straps",
+      "slug": "pointed-sling-heels-stone-straps",
+      "category": "footwear",
+      "price": 11500,
+      "description": "Pointed-toe sling-back heels with sparkling stone straps and an ankle buckle.",
+      "images": [
+        "/images/footwear/pointed-sling-heels-stone-straps.jpg"
+      ],
+      "colours": [
+        "Black",
+        "Wine",
+        "White",
+        "Pink",
+        "Brown"
+      ],
+      "variants": [
+        {
+          "colour": "Black",
+          "sizes": [
+            {
+              "size": "37",
+              "stock": 2
+            },
+            {
+              "size": "38",
+              "stock": 1
+            },
+            {
+              "size": "39",
+              "stock": 1
+            },
+            {
+              "size": "40",
+              "stock": 1
+            },
+            {
+              "size": "41",
+              "stock": 2
+            }
+          ]
+        },
+        {
+          "colour": "Wine",
+          "sizes": [
+            {
+              "size": "37",
+              "stock": 1
+            },
+            {
+              "size": "40",
+              "stock": 1
+            }
+          ]
+        },
+        {
+          "colour": "White",
+          "sizes": [
+            {
+              "size": "37",
+              "stock": 1
+            },
+            {
+              "size": "38",
+              "stock": 2
+            }
+          ]
+        },
+        {
+          "colour": "Pink",
+          "sizes": [
+            {
+              "size": "37",
+              "stock": 2
+            }
+          ]
+        },
+        {
+          "colour": "Brown",
+          "sizes": [
+            {
+              "size": "39",
+              "stock": 2
+            }
+          ]
+        }
+      ],
+      "tag": "New Arrival",
+      "in_stock": true,
+      "total_stock": 16
+    },
+    {
+      "id": 5,
+      "name": "Glossy Flip-Flop Slippers",
+      "slug": "glossy-flip-flop-slippers",
+      "category": "footwear",
+      "price": 4500,
+      "description": "Light, glossy flip-flops for everyday wear.",
+      "images": [
+        "/images/footwear/glossy-flip-flop-slippers.jpg"
+      ],
+      "colours": [
+        "Black",
+        "Lilac",
+        "Off-white",
+        "Blue",
+        "White"
+      ],
+      "variants": [
+        {
+          "colour": "Black",
+          "sizes": [
+            {
+              "size": "39",
+              "stock": 5
+            },
+            {
+              "size": "40",
+              "stock": 4
+            },
+            {
+              "size": "41",
+              "stock": 5
+            },
+            {
+              "size": "42",
+              "stock": 2
+            }
+          ]
+        },
+        {
+          "colour": "Lilac",
+          "sizes": [
+            {
+              "size": "39",
+              "stock": 1
+            },
+            {
+              "size": "40",
+              "stock": 1
+            },
+            {
+              "size": "41",
+              "stock": 2
+            },
+            {
+              "size": "42",
+              "stock": 1
+            }
+          ]
+        },
+        {
+          "colour": "Off-white",
+          "sizes": [
+            {
+              "size": "41",
+              "stock": 1
+            },
+            {
+              "size": "42",
+              "stock": 1
+            }
+          ]
+        },
+        {
+          "colour": "Blue",
+          "sizes": [
+            {
+              "size": "39",
+              "stock": 1
+            },
+            {
+              "size": "41",
+              "stock": 3
+            },
+            {
+              "size": "42",
+              "stock": 2
+            }
+          ]
+        },
+        {
+          "colour": "White",
+          "sizes": [
+            {
+              "size": "41",
+              "stock": 1
+            },
+            {
+              "size": "42",
+              "stock": 2
+            }
+          ]
+        }
+      ],
+      "tag": "Restocked",
+      "in_stock": true,
+      "total_stock": 32
+    },
+    {
+      "id": 6,
+      "name": "Black Stone Platform Slides",
+      "slug": "black-stone-platform-slides",
+      "category": "footwear",
+      "price": 8000,
+      "description": "Black platform slide with an adjustable velcro strap covered in small stones.",
+      "images": [
+        "/images/footwear/black-stone-platform-slides.jpg"
+      ],
+      "colours": [
+        "Black"
+      ],
+      "variants": [
+        {
+          "colour": "Black",
+          "sizes": [
+            {
+              "size": "40",
+              "stock": 1
+            },
+            {
+              "size": "41",
+              "stock": 2
+            }
+          ]
+        }
+      ],
+      "tag": "Restocked",
+      "in_stock": true,
+      "total_stock": 3
+    },
+    {
+      "id": 7,
+      "name": "Classic Thong Slippers",
+      "slug": "classic-thong-slippers",
+      "category": "footwear",
+      "price": 6000,
+      "description": "Soft thong-strap flat slippers in black and brown.",
+      "images": [
+        "/images/footwear/classic-thong-slippers.jpg"
+      ],
+      "colours": [
+        "Black",
+        "Brown"
+      ],
+      "variants": [
+        {
+          "colour": "Black",
+          "sizes": [
+            {
+              "size": "38",
+              "stock": 1
+            },
+            {
+              "size": "40",
+              "stock": 1
+            }
+          ]
+        },
+        {
+          "colour": "Brown",
+          "sizes": [
+            {
+              "size": "38",
+              "stock": 1
+            },
+            {
+              "size": "41",
+              "stock": 1
+            }
+          ]
+        }
+      ],
+      "tag": "New Arrival",
+      "in_stock": true,
+      "total_stock": 4
+    },
+    {
+      "id": 8,
+      "name": "Animal Print Cork Footbed Sandals",
+      "slug": "animal-print-cork-footbed-sandals",
+      "category": "footwear",
+      "price": 12500,
+      "description": "Cork-style footbed sandals with a buckled strap, in pink animal print.",
+      "images": [
+        "/images/footwear/animal-print-cork-footbed-sandals.jpg"
+      ],
+      "colours": [
+        "Pink animal print"
+      ],
+      "variants": [
+        {
+          "colour": "Pink animal print",
+          "sizes": [
+            {
+              "size": "40",
+              "stock": 1
+            }
+          ]
+        }
+      ],
+      "tag": null,
+      "in_stock": true,
+      "total_stock": 1
+    },
+    {
+      "id": 9,
+      "name": "Pearl Bow Slippers",
+      "slug": "pearl-bow-slippers",
+      "category": "footwear",
+      "price": 7000,
+      "description": "Flat slides with a bow and a pearl and stone ring detail, in pink.",
+      "images": [
+        "/images/footwear/pearl-bow-slippers.jpg"
+      ],
+      "colours": [
+        "Pink"
+      ],
+      "variants": [
+        {
+          "colour": "Pink",
+          "sizes": [
+            {
+              "size": "40",
+              "stock": 1
+            }
+          ]
+        }
+      ],
+      "tag": null,
+      "in_stock": true,
+      "total_stock": 1
+    },
+    {
+      "id": 10,
+      "name": "Black Quilted Slides",
+      "slug": "black-quilted-slides",
+      "category": "footwear",
+      "price": 10000,
+      "description": "Black quilted flat slides with a gold-tone buckle detail.",
+      "images": [
+        "/images/footwear/black-quilted-slides.jpg"
+      ],
+      "colours": [
+        "Black"
+      ],
+      "variants": [
+        {
+          "colour": "Black",
+          "sizes": [
+            {
+              "size": "38",
+              "stock": 1
+            }
+          ]
+        }
+      ],
+      "tag": null,
+      "in_stock": true,
+      "total_stock": 1
+    },
+    {
+      "id": 11,
+      "name": "Inner Caps",
+      "slug": "inner-caps",
+      "category": "accessories",
+      "price": 800,
+      "description": "Soft, stretchy inner caps worn under scarves and hijabs. Many colours.",
+      "images": [
+        "/images/accessories/inner-caps.jpg"
+      ],
+      "colours": [],
+      "variants": [],
+      "tag": null,
+      "in_stock": true,
+      "total_stock": null
+    },
+    {
+      "id": 12,
+      "name": "Jersey Scarf (Small)",
+      "slug": "jersey-scarf-small",
+      "category": "jersey-scarves",
+      "price": 2000,
+      "description": "Soft jersey scarf, small size. Buy 2 for N3,800.",
+      "images": [
+        "/images/jersey-scarves/jersey-scarf-small.jpg"
+      ],
+      "colours": [],
+      "variants": [],
+      "tag": null,
+      "in_stock": true,
+      "bundle_offer": {
+        "quantity": 2,
+        "price": 3800
+      },
+      "total_stock": null
+    },
+    {
+      "id": 13,
+      "name": "Jersey Scarf (Big)",
+      "slug": "jersey-scarf-big",
+      "category": "jersey-scarves",
+      "price": 3000,
+      "description": "Soft jersey scarf, big size.",
+      "images": [
+        "/images/jersey-scarves/jersey-scarf-big.jpg"
+      ],
+      "colours": [],
+      "variants": [],
+      "tag": null,
+      "in_stock": true,
+      "total_stock": null
+    },
+    {
+      "id": 14,
+      "name": "Black Silk Skirt",
+      "slug": "black-silk-skirt",
+      "category": "clothes",
+      "price": 9500,
+      "description": "Smooth silky midi skirt in black.",
+      "images": [
+        "/images/clothes/black-silk-skirt.jpg"
+      ],
+      "colours": [
+        "Black"
+      ],
+      "variants": [
+        {
+          "colour": "Black",
+          "sizes": [
+            {
+              "size": "L",
+              "stock": 1
+            }
+          ]
+        }
+      ],
+      "tag": null,
+      "in_stock": true,
+      "total_stock": 1
+    },
+    {
+      "id": 15,
+      "name": "Monogram Shoulder Bag",
+      "slug": "monogram-shoulder-bag",
+      "category": "bags",
+      "price": 6500,
+      "description": "Printed shoulder bag with a flap and a gold-tone clasp. About 23 cm wide, 13 cm high, 5 cm deep.",
+      "images": [
+        "/images/bags/monogram-shoulder-bag.jpg"
+      ],
+      "colours": [
+        "Black",
+        "Brown",
+        "White",
+        "Nude"
+      ],
+      "variants": [],
+      "tag": "New Arrival",
+      "in_stock": true,
+      "total_stock": null
+    },
+    {
+      "id": 16,
+      "name": "Studded Disc Party Bag",
+      "slug": "studded-disc-party-bag",
+      "category": "bags",
+      "price": 12500,
+      "description": "Small party bag with a top handle and a raised disc pattern.",
+      "images": [
+        "/images/bags/studded-disc-party-bag.jpg"
+      ],
+      "colours": [
+        "Black",
+        "Pink",
+        "Wine",
+        "Yellow"
+      ],
+      "variants": [],
+      "tag": "New Arrival",
+      "in_stock": true,
+      "total_stock": null
+    },
+    {
+      "id": 17,
+      "name": "Black Bow Pocket Baggy Jeans",
+      "slug": "black-bow-pocket-baggy-jeans",
+      "category": "baggy-jeans",
+      "price": 13000,
+      "description": "Wide-leg black baggy jeans with a bow detail on the back pockets. Not stretchy.",
+      "images": [
+        "/images/baggy-jeans/black-bow-pocket-baggy-jeans.jpg"
+      ],
+      "colours": [
+        "Black"
+      ],
+      "variants": [
+        {
+          "colour": "Black",
+          "sizes": [
+            {
+              "size": "M",
+              "stock": 1
+            },
+            {
+              "size": "L",
+              "stock": 1
+            },
+            {
+              "size": "XL",
+              "stock": 1
+            },
+            {
+              "size": "2XL",
+              "stock": 1
+            }
+          ]
+        }
+      ],
+      "tag": null,
+      "in_stock": true,
+      "total_stock": 4
+    },
+    {
+      "id": 18,
+      "name": "Light Wash Frayed Baggy Jeans",
+      "slug": "light-wash-frayed-baggy-jeans",
+      "category": "baggy-jeans",
+      "price": 16500,
+      "description": "Light wash wide-leg jeans with frayed edges and a bow pocket.",
+      "images": [
+        "/images/baggy-jeans/light-wash-frayed-baggy-jeans.jpg"
+      ],
+      "colours": [
+        "Light wash"
+      ],
+      "variants": [
+        {
+          "colour": "Light wash",
+          "sizes": [
+            {
+              "size": "26",
+              "stock": 1
+            },
+            {
+              "size": "28",
+              "stock": 1
+            },
+            {
+              "size": "30",
+              "stock": 1
+            },
+            {
+              "size": "32",
+              "stock": 1
+            },
+            {
+              "size": "34",
+              "stock": 1
+            },
+            {
+              "size": "36",
+              "stock": 1
+            },
+            {
+              "size": "38",
+              "stock": 1
+            }
+          ]
+        }
+      ],
+      "tag": null,
+      "in_stock": true,
+      "total_stock": 7
+    },
+    {
+      "id": 19,
+      "name": "Dark Wash Baggy Jeans",
+      "slug": "dark-wash-baggy-jeans",
+      "category": "baggy-jeans",
+      "price": 16500,
+      "description": "High-waist wide-leg jeans in a dark wash.",
+      "images": [
+        "/images/baggy-jeans/dark-wash-baggy-jeans.jpg"
+      ],
+      "colours": [
+        "Dark wash"
+      ],
+      "variants": [
+        {
+          "colour": "Dark wash",
+          "sizes": [
+            {
+              "size": "26",
+              "stock": 1
+            },
+            {
+              "size": "28",
+              "stock": 1
+            },
+            {
+              "size": "30",
+              "stock": 1
+            },
+            {
+              "size": "32",
+              "stock": 1
+            },
+            {
+              "size": "34",
+              "stock": 1
+            },
+            {
+              "size": "36",
+              "stock": 1
+            },
+            {
+              "size": "38",
+              "stock": 1
+            }
+          ]
+        }
+      ],
+      "tag": null,
+      "in_stock": true,
+      "total_stock": 7
+    },
+    {
+      "id": 20,
+      "name": "Cherry Embroidered Baggy Jeans",
+      "slug": "cherry-embroidered-baggy-jeans",
+      "category": "baggy-jeans",
+      "price": 13000,
+      "description": "Light wash wide-leg jeans with small embroidered cherries.",
+      "images": [
+        "/images/baggy-jeans/cherry-embroidered-baggy-jeans.jpg"
+      ],
+      "colours": [
+        "Light wash"
+      ],
+      "variants": [
+        {
+          "colour": "Light wash",
+          "sizes": [
+            {
+              "size": "M",
+              "stock": 1
+            },
+            {
+              "size": "L",
+              "stock": 1
+            },
+            {
+              "size": "2XL",
+              "stock": 1
+            },
+            {
+              "size": "3XL",
+              "stock": 1
+            }
+          ]
+        }
+      ],
+      "tag": null,
+      "in_stock": true,
+      "total_stock": 4
+    },
+    {
+      "id": 21,
+      "name": "Bamboo Handle Mini Tote",
+      "slug": "bamboo-handle-mini-tote",
+      "category": "bags",
+      "price": 11500,
+      "description": "Structured mini tote with bamboo-style top handles and gold-tone hardware.",
+      "images": [
+        "/images/bags/bamboo-handle-mini-tote.jpg"
+      ],
+      "colours": [
+        "Black",
+        "Wine",
+        "Brown",
+        "White"
+      ],
+      "variants": [],
+      "tag": "New Arrival",
+      "in_stock": true,
+      "total_stock": null
+    },
+    {
+      "id": 22,
+      "name": "Quilted Double Flap Bag",
+      "slug": "quilted-double-flap-bag",
+      "category": "bags",
+      "price": 15000,
+      "description": "Quilted 26 cm double flap bag with a gold-tone chain strap.",
+      "images": [
+        "/images/bags/quilted-double-flap-bag.jpg"
+      ],
+      "colours": [
+        "Black",
+        "Wine",
+        "Nude"
+      ],
+      "variants": [],
+      "tag": "New Arrival",
+      "in_stock": true,
+      "total_stock": null
+    }
+  ]
+}
