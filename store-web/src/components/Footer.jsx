@@ -2,27 +2,18 @@ import { AtSign, Instagram, Mail, MapPin, MessageCircle, Phone } from 'lucide-re
 import { Link } from 'react-router-dom'
 import { instagramHandle, instagramUrl, whatsappLink } from '../lib/store'
 import store from '../data/store.json'
-
-const [brandFirst, ...brandRest] = store.name.split(' ')
+import BrandMark from './BrandMark'
 
 export default function Footer() {
   return (
     <footer className="mt-24 bg-ink text-white">
       <div className="container-page grid gap-12 py-16 md:grid-cols-2 lg:grid-cols-4">
         <div className="lg:col-span-2">
-          <div className="flex items-baseline gap-2">
-            <span className="font-display text-4xl tracking-[0.08em]">
-              {brandFirst.toUpperCase()}
-            </span>
-            {brandRest.length > 0 && (
-              <span className="text-[10px] font-bold uppercase tracking-[0.32em] text-gold">
-                {brandRest.join(' ')}
-              </span>
-            )}
-          </div>
+          <BrandMark variant="light" size="lg" />
           <p className="mt-5 max-w-md text-sm leading-7 text-white/50">
-            Modern fashion for people who dress with intention. Bags, footwear, scarves and
-            streetwear staples, curated in {store.location} and delivered nationwide.
+            <span className="font-semibold text-gold">{store.tagline}.</span> Modern fashion
+            for people who dress with intention. Bags, footwear, scarves and streetwear
+            staples, curated in {store.location} and delivered nationwide.
           </p>
           <div className="mt-6 flex items-center gap-3">
             {store.instagram && (

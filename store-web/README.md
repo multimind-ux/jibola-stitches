@@ -1,6 +1,6 @@
 # Store Web
 
-React + Vite + Tailwind storefront for Jibola Stitches. See the root `README.md` for the
+React + Vite + Tailwind storefront for Jibola Collection. See the root `README.md` for the
 full setup, product schema and deployment guide.
 
 ## Commands

@@ -1,6 +1,6 @@
-# Jibola Stitches
+# Jibola Collection
 
-A simple, mobile-first storefront for **Jibola Stitches**, built with React, Vite,
+A simple, mobile-first storefront for **Jibola Collection**, built with React, Vite,
 Tailwind CSS, React Router and lucide-react.
 
 This is a front-end-only site. There is no backend, database, login, admin area, online
@@ -74,7 +74,7 @@ Products live in `store-web/src/data/products.json`. Images live in
 
 ```json
 {
-  "store": "Jibola Stitches",
+  "store": "Jibola Collection",
   "currency": "NGN",
   "products": [
     {

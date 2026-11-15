@@ -2,9 +2,8 @@ import { useEffect, useState } from 'react'
 import { Link, NavLink, useLocation } from 'react-router-dom'
 import { Menu, Search, ShoppingBag, X } from 'lucide-react'
 import { useCart } from '../context/CartContext'
+import BrandMark from './BrandMark'
 import store from '../data/store.json'
-
-const [brandFirst, ...brandRest] = store.name.split(' ')
 
 const links = [
   { to: '/shop', label: 'Shop All' },
@@ -45,16 +44,7 @@ export default function Navbar() {
             >
               {mobileOpen ? <X size={21} /> : <Menu size={21} />}
             </button>
-            <Link to="/" className="group flex items-baseline gap-2">
-              <span className="font-display text-3xl tracking-[0.08em] text-ink transition group-hover:text-gold">
-                {brandFirst.toUpperCase()}
-              </span>
-              {brandRest.length > 0 && (
-                <span className="hidden text-[10px] font-bold uppercase tracking-[0.32em] text-ink/45 sm:inline">
-                  {brandRest.join(' ')}
-                </span>
-              )}
-            </Link>
+            <BrandMark />
           </div>
 
           <nav className="hidden items-center gap-7 lg:flex">

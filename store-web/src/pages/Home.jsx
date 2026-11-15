@@ -37,7 +37,7 @@ export default function Home() {
       <section className="container-page pt-6 sm:pt-10">
         <div className="grid overflow-hidden rounded-[2rem] bg-ink lg:grid-cols-[1.08fr_0.92fr]">
           <div className="relative flex flex-col justify-center px-7 py-14 text-white sm:px-12 sm:py-20 lg:px-14">
-            <p className="eyebrow">Made in {store.location}. Nationwide delivered.</p>
+            <p className="eyebrow">{store.tagline} · Made in {store.location}</p>
             <h1 className="mt-5 font-display text-[4.2rem] leading-[0.84] tracking-wide sm:text-[6rem] lg:text-[6.6rem]">
               Dress like
               <br />
